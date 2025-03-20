@@ -1,0 +1,14 @@
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\bin\Debug\net8.0\chaininresponsibilitypattern.exe
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\bin\Debug\net8.0\chaininresponsibilitypattern.deps.json
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\bin\Debug\net8.0\chaininresponsibilitypattern.runtimeconfig.json
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\bin\Debug\net8.0\chaininresponsibilitypattern.dll
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\bin\Debug\net8.0\chaininresponsibilitypattern.pdb
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.dll
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\refint\chaininresponsibilitypattern.dll
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.pdb
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\chaininresponsibilitypattern.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\chaininresponsibilitypattern\chaininresponsibilitypattern\obj\Debug\net8.0\ref\chaininresponsibilitypattern.dll
